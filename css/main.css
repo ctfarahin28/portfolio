@@ -145,19 +145,20 @@
   
   .project-image-container {
     overflow: hidden;
-    width: 100%;
+    width: 80%;
     border-radius: 10px 10px 0px 0px;
   }
   
   .project-image {
-    width: 100%;
+    width: 80%;
     object-fit: cover;
     object-position: center;
   }
-  
+
+ 
   .project-content {
     background: #0d0d0d;
-    padding: 32px;
+    padding: 22px;
     border-radius: 0px 0px 10px 10px;
   }
   
